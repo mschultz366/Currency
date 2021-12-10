@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="app_title">Ruble Converter</string>
+    <string name="entry_hint">Amount to Convert</string>
+    <string name="ruble_button">Convert to Rubles</string>
+    <string name="usd_button">Convert to USD</string>
+    <string name="button_text">Convert</string>
+</resources>
